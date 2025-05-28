@@ -1,7 +1,7 @@
 # operating-system
 操作系统八股文，包括进程与线程、进程调度算法、内存管理、虚拟内存、文件系统、死锁、同步机制以及 Linux 系统常用命令与工具等
 # 博客地址
-[操作系统面试题](https://yzletter.notion.site/1e289200bcae802c8bb9e11528b7eb60)
+[操作系统面试题](https://yzletter.notion.site/operating)
 # 目录
 1. **常用的 Linux 指令有哪些？**
 2. **当前有一个文本文件，每一行包含一串数字，如何 Linux 命令进行去重？**
